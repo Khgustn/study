@@ -1,0 +1,17 @@
+* { background-color: #444444; }
+h1 { color: white;   padding-bottom: 10px;
+    border-bottom: solid 3px orange; font-size: 40px;  text-align: center;}
+video { background: black; border: solid 5px orange; border-bottom: solid 3px orange; box-shadow: 3px 3px 5px #444444; }
+td h3 { color: black; text-align: center; margin: 10px; border-bottom: solid 3px orange;}
+table { text-align: center; padding: auto; margin: auto;  border-collapse: collapse; border-top: solid 3px orange; border-bottom: solid 3px orange; box-shadow: 3px 3px 5px #444444;}
+div { text-align: center; }
+body {  background-image: url("궁궐11.jpg"); opacity: 0.9;  }
+video { object-fit: scale-down; }
+button { background-color: bisque; border: solid 5px bisque; }
+h3 {  border-bottom: solid 3px orange; display: inline-block; }
+a:link { color: black; text-decoration : underline; } 
+    a:visited { color: black; text-decoration: none; }
+    a:hover { color: orange; text-decoration: underline; }
+    a:active { color: orange; text-decoration: none; } 
+    li { list-style-type: none;}
+
